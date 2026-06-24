@@ -1,0 +1,6 @@
+{
+  "name": "Muskan Trading Corporation",
+  "description": "Premium Water Pump, Pipe & Sanitary Marketplace in Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
